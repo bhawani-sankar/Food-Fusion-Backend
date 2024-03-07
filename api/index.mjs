@@ -1,10 +1,10 @@
 import express from "express";
-import { conn } from "./DB/conn.js";
+import { conn } from "./DB/conn.mjs";
 import bcript from "bcryptjs";
 import bodyParser from "body-parser";
 import jwt from "jsonwebtoken";
 import cors from "cors";
-import { authToken } from "./Middleware/auth.js";
+import { authToken } from "./Middleware/auth.mjs";
 import Razorpay from "razorpay";
 
 const app = express();
