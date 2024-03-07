@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Burger ",
+        "brand": "Burger King",
+        "location": "BJB Nagar, Bhubaneshwar",
+        "price": "99",
+        "img": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img1": "https://images.unsplash.com/photo-1603064752734-4c48eff53d05?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img2": "https://plus.unsplash.com/premium_photo-1661387986575-0ac3a4d53395?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img3": "https://plus.unsplash.com/premium_photo-1684923611399-d2b539e8596a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img4": ""
+    },
+    {
+        "name": "Burger",
+        "brand": "McDonald's",
+        "location": "Chandrasekharpur, Bhubaneshwar",
+        "price": "120",
+        "img": "https://plus.unsplash.com/premium_photo-1667682209935-b6c87cced668?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img1": "https://plus.unsplash.com/premium_photo-1679434137646-8070e1d41f19?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img2": "https://plus.unsplash.com/premium_photo-1673108872447-71036ad249c1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img3": "https://plus.unsplash.com/premium_photo-1672363353886-a106864f5cb9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "img4": ""
+    },
+    {
+        "name": "Chicken Strips Bucket",
+        "brand": "KFC",
+        "location": "Kharabela Nagar, Bhubaneshwar",
+        "price": "399",
+        "img": "https://media.istockphoto.com/id/1133687689/photo/perfect-fried-chicken-pieces-flying-around-in-red-white-striped-box.jpg?s=2048x2048&w=is&k=20&c=Yt4XEfunFd11CuFbF0Gad_9ah_6sm_DxQoiS0StHYxY=",
+        "img1":"https://media.istockphoto.com/id/177005490/photo/fried-chicken-in-big-red-white-stripes-bucket-box.jpg?s=2048x2048&w=is&k=20&c=6nnTg8y_Xku1xSnN0rg8qh4qKau7JhOtqtqpAY6Ljg0=",
+        "img2": "https://b.zmtcdn.com/data/pictures/chains/2/2900222/ab7dc239625ef34124d8a38b57a22e3a.jpg?fit=around|300:273&crop=300:273;*,*",
+        "img3": "https://media.istockphoto.com/id/1454224412/photo/caramelized-chicken-with-sesame-and-garlic-meat-strips-in-paper-bucket.jpg?s=2048x2048&w=is&k=20&c=h39JmnOjmuZQWFTXDHVLZKKVGQvUfyCqefPF2C3Uff4=",
+        "img4": ""
+    },
+    {
+        "name": "Veg Biryani",
+        "brand": "Green Chillyz",
+        "location": "Ashok Nagar, Bhubaneshwar",
+        "price": "150",
+        "img":"https://media.istockphoto.com/id/495185782/photo/indian-pulav-vegetable-rice-veg-biryani-basmati-rice.jpg?s=2048x2048&w=is&k=20&c=R-a9-f5UGj4lmgqhKLEHSmUL4EMAwBfC5J_ED1HCn3w=",
+        "img1": "https://media.istockphoto.com/id/1292443973/photo/traditional-hyderabadi-vegetable-veg-dum-biryani-with-mixed-veggies-served-with-mixed-raita.jpg?s=2048x2048&w=is&k=20&c=lkXEmFYY3JMnGeBEXuZAo2sfUcffILAgKRPEVc5on88=",
+        "img2": "https://media.istockphoto.com/id/905487810/photo/veg-biryani-or-veg-pulav-or-steamed-rice.jpg?s=612x612&w=0&k=20&c=zcyYts4uiFw78fKXjEIIYgPTvYaDDavPtOfofBYoep4=",
+        "img3": "https://media.istockphoto.com/id/1393066617/photo/veg-biryani.jpg?s=2048x2048&w=is&k=20&c=8GCQx9bM8jzakh7fd6lZKsp2riR5RZdhc84HGRecEV4=",
+        "img4": "https://media.istockphoto.com/id/1363306846/photo/veg-biryani.jpg?s=2048x2048&w=is&k=20&c=SVuY1303VoHhgZKaJjvRPO61v0lgdy9PhpTFbzvXbmE="
+    },
+    {
+        "name": "Chicken Biryani",
+        "brand": "Biryani Box",
+        "location": "Ashok Nagar, Bhubaneshwar",
+        "price": "199",
+        "img":"https://media.istockphoto.com/id/1345624336/photo/chicken-biriyani.jpg?s=2048x2048&w=is&k=20&c=uU0uuti6KOvpQhXuu6VMpgi021o1vZXfOhpMrJXSn1o=",
+        "img1": "https://media.istockphoto.com/id/1058029096/photo/chicken-biryani.jpg?s=2048x2048&w=is&k=20&c=fCgi2GE7Mo2lm2gUhDqR0KPY_fvHUOu1A47RXpq0BzU=",
+        "img2": "https://media.istockphoto.com/id/1305451864/photo/biryani.jpg?s=2048x2048&w=is&k=20&c=HBSDns_Vf4-UnUkrtOrewJ7Xb0TL3rQzKeDRi7eWB3Y=",
+        "img3": "https://media.istockphoto.com/id/503730889/photo/chicken-biryani-1-11.jpg?s=2048x2048&w=is&k=20&c=RMaCK-YQ9Yadv9l-c0Li7ml8MV0NFg2RH3cPOXZARSk=",
+        "img4": ""
+    },
+    {
+        "name": "Pizza",
+        "brand": "Domino's Pizza",
+        "location": "Sahid Nagar, Bhubaneshwar",
+        "price": "399",
+        "img":"https://media.istockphoto.com/id/1048400936/photo/whole-italian-pizza-on-wooden-table-with-ingredients.jpg?s=2048x2048&w=is&k=20&c=xKySCEmDapIiEAbfoXUAx6z_18ENYs1rq808tGyr3so=",
+        "img1": "https://media.istockphoto.com/id/1459715799/photo/pizza-with-ham-and-cheese.jpg?s=2048x2048&w=is&k=20&c=eENsyO6zk9sos30QkksIYecpsA2CyQkQVGsMQPcS3cM=",
+        "img2": "https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=2048x2048&w=is&k=20&c=gaJCN6GbnNTjlBeuZ2PNJvarzk3-i7kP8WEmMSub8zQ=",
+        "img3": "https://media.istockphoto.com/id/899907172/photo/baked-tasty-margerita-pizza-near-oven.jpg?s=2048x2048&w=is&k=20&c=Cdue4TgIbH4rEdXAcOS-y-gxiD4ukgOIriURn03dBoc=",
+        "img4": ""
+    },
+    {
+        "name": "Paneer Rolls",
+        "brand": "Green Chillyz",
+        "location": "Ashok Nagar, Bhubaneshwar",
+        "price": "105",
+        "img":"https://media.istockphoto.com/id/1358803533/photo/cottage-cheese-paneer-kathi-roll.jpg?s=2048x2048&w=is&k=20&c=BHFqvQCQRHVzuHkKaZ8nCjbvPAP7gVc2Dp1fKvrOC34=",
+        "img1": "https://media.istockphoto.com/id/1400110943/photo/mix-vegetable-kathi-roll.jpg?s=2048x2048&w=is&k=20&c=HZ58Z73zrdHKVq7wJlpxN8w54sievqFaXfAqSAmGISk=",
+        "img2": "https://media.istockphoto.com/id/1438448290/photo/chickpea-paneer-chicken-shawarma-wrap-with-salad-dip-and-sauce-isolated-wooden-board-side.jpg?s=2048x2048&w=is&k=20&c=8KZ_8GUO2iude8RrkoDhW1WWe17tPrp793p3H7veb4w=",
+        "img3": "https://media.istockphoto.com/id/1341885117/photo/indian-veg-chapati-wrap.jpg?s=2048x2048&w=is&k=20&c=v8dL1B13o8zdxNstXn23maiOIcwq_m93DCVgJB4YLuE=",
+        "img4": ""
+    },
+    {
+        "name": "chicken wings",
+        "brand": "Green Chillyz",
+        "location": "Ashok Nagar, Bhubaneshwar",
+        "price": "270",
+        "img":"https://media.istockphoto.com/id/532607409/photo/chicken-wings.jpg?s=2048x2048&w=is&k=20&c=reKeV9Kwkz3oO0mke6h4oKPKJaxiWr8LRqLykft2Txc=",
+        "img1": "https://media.istockphoto.com/id/1343443033/photo/hot-and-spicy-buffalo-chicken-wings-close-up-on-a-white-background.jpg?s=2048x2048&w=is&k=20&c=oesZmaUdOT6g4tfna5BIUm3Q1gcXjkitvkjSJVTs61s=",
+        "img2": "https://media.istockphoto.com/id/835903320/photo/baked-chicken-wings-with-sesame-seeds-and-sweet-chili-sauce-on-white-wooden-board.jpg?s=2048x2048&w=is&k=20&c=_61d7E3aKQoUyJV9EY2xS8cr6JKDEkZwlk8KnEvbutk=",
+        "img3": "https://media.istockphoto.com/id/593297368/photo/barbecue-chicken-wings-close-up-on-wooden-tray.jpg?s=2048x2048&w=is&k=20&c=E7lOdk40DhfU5fG-y8akR8U6KhpNQJ3Di5nXIG0jbyM=",
+        "img4": ""
+    }
+    
+]
